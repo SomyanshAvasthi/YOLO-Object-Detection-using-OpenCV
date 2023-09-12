@@ -18,7 +18,8 @@ Here is a the system design for YOLO object detection using python and OpenCV-
 4. Optimization - After training, optimise the YOLO model by reducing its size and increasing its speed without sacrificing performance. This can be done using techniques like model quantization, pruning, and knowledge distillation.
 
 # Architecture of YOLO
-![image](https://github.com/SomyanshAvasthi/YOLO-Object-Detection-using-OpenCV/assets/107310391/201a3577-a7ee-48f9-bd84-b56c394a87e0)
+![image](https://github.com/SomyanshAvasthi/YOLO-Object-Detection-using-OpenCV/assets/107310391/97db25a4-adb6-4f63-8a8c-6c70b5ab9e74)
+
 
 # Algorithms Discussed
 The YOLO (You Only Look Once) object detection algorithm is a neural network-based algorithm that performs object detection by dividing the input image into a grid of cells and predicting the bounding box and class probabilities for each cell.This is best algorithm for yolo object detection system.
@@ -30,7 +31,8 @@ Here is a step-by-step explanation of how the YOLO algorithm works:
 5.	Output: The final output of the YOLO algorithm is a set of bounding boxes with class labels and confidence scores.
 
 # UML Diagram
-![image](https://github.com/SomyanshAvasthi/YOLO-Object-Detection-using-OpenCV/assets/107310391/a22949b8-8c1f-448a-9fc6-f42b4b662cc5)
+![image](https://github.com/SomyanshAvasthi/YOLO-Object-Detection-using-OpenCV/assets/107310391/c6b00957-f150-4c13-8615-d53911bd2f96)
+
 
 # Result & Discussion
 A box will appear where the video from the webcam is shown.In that video, the program will identify the objects in the video.The objects will be surrounded by a rectangle boundary with the percentage of what the program thinks that object is.
